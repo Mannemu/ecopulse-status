@@ -2,8 +2,7 @@
 
 MUNICIPAL-ENGINE:
 Malmo Stad - STATUS: ACTIVE
-
 Lunds Kommun - STATUS: ACTIVE
-
+------
 FASHION-ENGINE:
 TextileCorp AB - STATUS: ACTIVE
