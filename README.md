@@ -1,3 +1,3 @@
 MUNICIPAL-ENGINE
-malmo - STATUS: ACTIVE
+malmö - STATUS: ACTIVE
 ---
