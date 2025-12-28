@@ -1,5 +1,3 @@
 MUNICIPAL-ENGINE
 malmo - STATUS: ACTIVE
-lund - STATUS: ACTIVE
-stockholm - STATUS: ACTIVE
 ---
